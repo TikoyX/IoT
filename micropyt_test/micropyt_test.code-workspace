@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "serial://dev/tty.usbmodemPy7561281",
+			"uri": "serial:///dev/tty.usbmodempy7561281/flash"
+		}
+	],
+	"settings": {}
+}
