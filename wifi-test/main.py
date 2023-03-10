@@ -3,7 +3,6 @@ import machine
 import time
 from scd30 import SCD30
 import socket
-import ssl
 
 # constants for the wifi connection and sensor
 i2c = machine.I2C(2, machine.I2C.MASTER, baudrate=100000)
