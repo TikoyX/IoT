@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "LoRaWAN",
+			"path": "LoRaWAN"
+		}
+	],
+	"settings": {}
+}
